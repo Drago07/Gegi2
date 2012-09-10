@@ -60,7 +60,7 @@ public class Convertisseur {
 		     
 		   }while(reponse == 'O');
 		    
-		   System.out.println("Au revoir !");
+		   System.out.println("Good bye Joel !");
 		   
 		   sc.close();
 	}
