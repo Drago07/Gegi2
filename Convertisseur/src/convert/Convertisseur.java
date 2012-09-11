@@ -61,6 +61,7 @@ public class Convertisseur {
 		   }while(reponse == 'O');
 		    
 		   System.out.println("Good bye Joel !");
+		   System.out.println("Good Bye Adrien !");
 		   
 		   sc.close();
 	}
